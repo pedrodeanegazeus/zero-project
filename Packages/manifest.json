@@ -39,5 +39,23 @@
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0"
-  }
+  },
+  "scopedRegistries": [
+    {
+      "name": "Gazeus",
+      "url": "https://nexus.gazeus.com:9443/nexus/repository/gazeus-unity",
+      "scopes": [
+        "com.gazeus"
+      ],
+      "overrideBuiltIns": false
+    },
+    {
+      "name": "Gazeus Ext",
+      "url": "https://nexus.gazeus.com:9443/nexus/repository/gazeus-unity",
+      "scopes": [
+        "com.google"
+      ],
+      "overrideBuiltIns": false
+    }
+  ]
 }
