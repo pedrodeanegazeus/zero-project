@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3caf1975eb94f4f2cbaef231bcb1399f, type: 3}
+  m_Name: release
+  m_EditorClassIdentifier: 
+  _androidPipeline: {fileID: 11400000, guid: 414f454ebcd7780418959c2aa5ae4a46, type: 2}
+  _iosPipeline: {fileID: 11400000, guid: a6f53ea34ba6d434590ead95d62ec706, type: 2}
